@@ -24,7 +24,6 @@
 
 /** 1. Basic
 *******************************************************************/
-
 html
 {
     font-size: 10px;
@@ -32,7 +31,7 @@ html
 
 body
 {
-    font-family: 'Arapey', serif;
+    font-family: 'Khand', sans-serif;
     font-weight: 300;
     font-style: normal;
 
@@ -49,7 +48,7 @@ h4,
 h5,
 h6
 {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Khand', sans-serif;
     font-weight: normal;
 
     letter-spacing: .05em;
